@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "once": "^1.3.0"
-  }
+  },
+  "repository" : "https://github.com/pemulis/how-to-npm"
 }
